@@ -1,4 +1,7 @@
 # MMM-RTSPtoWeb
+## Kayakbabe's Note
+This fork is NOT working yet. my goal is to convert it from using node request which is depreciated to got.
+
 
 MagicMirror2 Module for viewing IP cameras RTSP stream in real time using WebRTC technology.
 
